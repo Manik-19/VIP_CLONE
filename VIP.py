@@ -209,6 +209,7 @@ def rcrack1(uid,pwx,tl):
             'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
             'accept-language': 'en-GB,en-US;q=0.9,en;q=0.8',
             'cache-control': 'max-age=0',
+            'cookie: datr=Onf3Y1TqSh_0Y2pMIkWz8M5f; sb=Onf3Y8Vf04VSEs48k_EY4qCM; dpr=1.75; locale=en_US; wd=412x785; vpd=v1%3B686x412x1.75; fr=0NXcu0rhniijj6ZwA.AWWi6MV4shsD0_W5KX1z4nzKobU.Bj-vcG.zs.AAA.0.0.Bj_sFh.AWVJXl0SiLo; dnonce=AWn1YUHwgMyk-j3GcHkxqHOizhQPu9s4t6-k65xXOBIBTz23m40PVz_sd0A5kaeL4ddGCgf-FlRHZQDH26vmv5Ta
             'origin': 'https://mbasic.facebook.com',
             'referer': 'https://mbasic.facebook.com/',
             'sec-ch-ua': '"Chromium";v="107", "Not=A?Brand";v="24"',
