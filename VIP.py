@@ -245,7 +245,7 @@ def rcrack1(uid,pwx,tl):
             else:
                 continue
         loop+=1
-        sys.stdout.write(f'\r\033[m[INNOCENT] \033[1;92m%s\033[m |\033[m[\033[mOK:\033[1;92m%s\033[m] '%(loop,len(oks))),
+        sys.stdout.write(f'\r\033[m[PAID] \033[1;92m%s\033[m |\033[m[\033[mOK:\033[1;92m%s\033[m] '%(loop,len(oks))),
         sys.stdout.flush()
     except:
         pass
