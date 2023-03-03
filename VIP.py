@@ -1,6 +1,6 @@
-#Create By: MUMIT ISLAM HIMU
-#FaceBook: Mumit Islam
-#GitHub: https://github.com/MUMIT-404-CYBER
+#Create By: MD MANIK SARKER
+#FaceBook: Md Manik Sarker 
+#GitHub: https://github.com/Manik-19
 #---------------------------------------------------------------------------#
 import os,sys,time,json,random,re,string,platform,base64,uuid
 from bs4 import BeautifulSoup as sop
@@ -72,7 +72,7 @@ for xd in range(10000):
     f=random.randrange(1, 99)
     uaku2=(f'{a}{b}{c}{d}{e}{f}')
     ugen.append(uaku2)
-os.system('xdg-open https://github.com/MUMIT-404-CYBER')
+os.system('xdg-open https://github.com/Manik-19')
 logo = ("""
 \033[1;91m   
 \033[1;92m  
@@ -88,13 +88,13 @@ logo = ("""
 \033[1;94m   
 \033[1;95m    033[1;92m
  ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
- ┃ [✓] AUTHOR    \033[1;91m: \033[1;92mMUMIT ISLAM HIMU           ┃
- ┃ [✓] TOOL      \033[1;91m: \033[1;92mRANDOM CLONE               ┃
- ┃ [✓] STATUS    \033[1;91m: \033[1;92mFREE                       ┃
- ┃ [✓] SYSTEM    \033[1;91m: \033[1;92mDATA & WIFI                ┃
- ┃ [✓] GITHUB    \033[1;91m: \033[1;92mMUMIT-404-CYBER            ┃
- ┃ [✓] FACEBOOK  \033[1;91m: \033[1;92mMumit Islam                ┃
- ┃ [✓] WHATSAPP  \033[1;91m: \033[1;92m+8801644777805             ┃
+ ┃ [✓] AUTHOR    \033[1;91m: \033[1;92mMd Manik Sarker             ┃
+ ┃ [✓] TOOL      \033[1;91m: \033[1;92mRANDOM CLONE                ┃
+ ┃ [✓] STATUS    \033[1;91m: \033[1;92mPAID                        ┃
+ ┃ [✓] SYSTEM    \033[1;91m: \033[1;92mDATA & WIFI                 ┃
+ ┃ [✓] GITHUB    \033[1;91m: \033[1;92mManik-19             ┃
+ ┃ [✓] FACEBOOK  \033[1;91m: \033[1;92mManik Sarker                ┃
+ ┃ [✓] WHATSAPP  \033[1;91m: \033[1;92m+8801644777805              ┃
  ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛""")
 
 class Main:
@@ -110,7 +110,7 @@ class Main:
         print(" [00] Exit")
         print("\033[1;32m ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
         Mumit =input(" [?] Choose : ")
-        os.system('xdg-open https://facebook.com/groups/termuxteambd/')
+        os.system('xdg-open https://www.facebook.com/comedyking.BD1')
         if Mumit in ["1", "01"]:
             num()
         if Mumit in ["2","02"]:
