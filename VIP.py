@@ -220,7 +220,7 @@ def rcrack1(uid,pwx,tl):
             'origin': 'https://mbasic.facebook.com',
             'referer': 'https://mbasic.facebook.com/',
             'sec-ch-ua': '"Chromium";v="107", "Not=A?Brand";v="24"',
-            'sec-ch-ua-mobile': '?1',
+            'sec-ch-ua-mobile': '?0',
             'sec-ch-ua-platform': '"Android"',
             'sec-fetch-dest': 'document',
             'sec-fetch-mode': 'navigate',
