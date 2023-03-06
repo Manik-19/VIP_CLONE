@@ -1,5 +1,5 @@
-# Compiled By TEAM STLP
-# Github: github.com/STLP-TEAM
+# Compiled Manik Sarker
+# Github: github.com/Manik-19
 # Note: Don't Try To Decompile This Tool
 
 
