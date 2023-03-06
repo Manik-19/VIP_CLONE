@@ -217,7 +217,7 @@ def rcrack1(uid,pwx,tl):
             'accept-language': 'en-US,en;q=0.9',
             'cache-control': 'max-age=0',
             'cookie': 'datr=6PIFZD_5Q8JvmSvz2_orCutU; sb=6PIFZGks4oMUQ1pDcuUb-dYB',
-            'sec-ch-ua': "Chromium";v="110", "Not A(Brand";v="24",
+            'sec-ch-ua': "Chromium";v="107", "Not A(Brand";v="24",
             'sec-ch-ua-mobile': '?0',
             'sec-ch-ua-platform': "Android",
             'sec-fetch-dest': 'document',
