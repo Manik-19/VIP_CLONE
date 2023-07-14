@@ -1,5 +1,5 @@
-# Compiled By MANIK
-# Facebook : Md Manik Sarker  
+# Compiled By Team SND
+# Facebook : Team SND  
 # Tool : Random cloning 
 # Github : https://github.com/Manik-19
 # Time : Thu Mar 30 13:20:25 2023 
